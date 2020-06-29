@@ -32,7 +32,7 @@ torchvision 0.2.1
 numpy 1.14.3
 matplotlib 2.2.2
 Usage
-Edit the config.py file to select training parameters and the dataset to use. Choose dataset from ['MNIST', 'FashionMNIST', 'SVHN', 'CelebA']
+Edit the config.py file to select training parameters and the dataset to use. Choose dataset from ['MNIST']
 
 To train the model run train.py:
 
